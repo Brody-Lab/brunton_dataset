@@ -2,7 +2,7 @@
 
 This repository contains the rat behavioral data set used in [Brunton, Bingni W., Matthew M. Botvinick, and Carlos D. Brody. 2013. “Rats and Humans Can Optimally Accumulate Evidence for Decision-Making.” Science 340 (6128): 95–98.](http://dx.doi.org/10.1126/science.1233912)
 
-Each file is named "chrono\_{ratname}\_rawdata.mat" and is a [Matlab](https://www.mathworks.com/products/matlab.html) data file. (Note that such files can also be read into Python or Julia.)
+Each file corresponds to data from 1 rat (19 rats total). Each file is named "chrono\_{ratname}\_rawdata.mat" and is a [Matlab](https://www.mathworks.com/products/matlab.html) data file. (Note that such files can also be read into Python or Julia.)
 
 Loading a file into a variable will instantiate a structure with the following fields:
 
