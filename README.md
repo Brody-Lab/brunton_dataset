@@ -1,6 +1,6 @@
 # Data Set from Brunton, Botvinick, and Brody Science 2013
 
-This repository contains the rat behavioral data set used in [Brunton, Bingni W., Matthew M. Botvinick, and Carlos D. Brody. 2013. “Rats and Humans Can Optimally Accumulate Evidence for Decision-Making.” Science 340 (6128): 95–98.](http://dx.doi.org/10.1126/science.1233912)
+This repository contains the rat behavioral data set used in [Bingni W. Brunton, Matthew M. Botvinick, and Carlos D. Brody. 2013. “Rats and Humans Can Optimally Accumulate Evidence for Decision-Making.” Science 340 (6128): 95–98.](http://dx.doi.org/10.1126/science.1233912)
 
 These data are released by the authors, to be used by others, under the [CC-BY-NC-4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
 
