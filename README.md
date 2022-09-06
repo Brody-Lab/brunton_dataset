@@ -8,7 +8,7 @@ Each file corresponds to data from 1 rat (19 rats total). Each file is named "ch
 
 Loading a file into a variable will instantiate a structure with the following fields:
 
-* ratname -- Identifies an animal subjecy
+* ratname -- Identifies an animal subject
 * daterange -- The date range over which the data was gathered
 * rawdata -- The actual data
 * total_trials -- Number of behavioral trials in the data set
@@ -22,6 +22,6 @@ Most of the data is in the "rawdata" field, which in turn is a structure with a 
 * rightbups -- times, relative to the start of the stimulus period, at which clicks from the right speaker were played
 * pokedR -- Boolean indicating whether the subject, as its response, decided to poke into the Right poke at the end of the stimulus (true), or poked into the left poke (false)
 * hit -- Boolean indicating whether the subject's response poke was correct (rewarded) or incorrect (not rewarded)
-* Delta -- totel number of Right minus Left clicks played
+* Delta -- total number of Right minus Left clicks played
 * gamma -- logarithm of the ratio of the Poisson rate used to generate Right versus Left clicks
 
